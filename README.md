@@ -1,4 +1,4 @@
-# TheIdeasMan
+# The Ideas Man
 
 ## Reason 
 Everyday so many different thoughts come into my head and I play around with them for a while in my brain, but then eventually I forget them. 
