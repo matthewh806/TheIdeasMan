@@ -1,7 +1,7 @@
 # The Ideas Man
 
 ## Name
-I always thought the idea of much derided "Ideas Man" role in a company was quite funny. I read about these people on Reddit, HackerNews etc, but never came across someone who had this job. 
+I always thought the idea of the much derided "Ideas Man" role in a company was quite funny. I read about these people on Reddit, HackerNews etc, but never came across someone who had this job. 
 
 It became kind of mythical, imagine, being paid to sit in a room all day and think of ideas. 
 
