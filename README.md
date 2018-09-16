@@ -1,5 +1,10 @@
 # The Ideas Man
 
+## Name
+I always thought the idea of much derided "Ideas Man" role in a company was quite funny. I read about these people on Reddit, HackerNews etc, but never came across someone who had this job. 
+
+It became kind of mythical, imagine, being paid to sit in a room all day and think of ideas. 
+
 ## Reason 
 Everyday so many different thoughts come into my head and I play around with them for a while in my brain, but then eventually I forget them. 
 
