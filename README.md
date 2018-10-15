@@ -29,9 +29,11 @@ The idea just popped to my head while speaking to a friend. This is one I am int
 ### Game
 #### Landslide
 A pixel art game based on a recent (and at this moment ongoing) relationship. We met in the workplace in Amsterdam and fell very passionately in love, we got to know eachother over the company Slack and before she left we exported the conversation to keep the memory. 
-A game in which the player clicks through a series of chronological snippets of conversation and gradually the players come together on the screen with each passing day. Gradually after a time spent together the two characters slowly start to drift apart until finally they are off the screen and a few final bubbles of text appear.
+
+A game in which the player clicks through a series of chronological snippets of conversation and gradually the two characters come together on the screen with each passing day. After a time spent together they slowly start to drift apart until finally they are off the screen and a few final bubbles of text appear.
 
 I would love for the dialogues to be from the genuine conversations, but I would only do so with the blessing of the girl this idea is inspired by and ultimately for. And fragmentary, yet somehow profound. Is that possible? 
-The conversations are timestamped and so I would love the surroundings the characters are in to gradually change with the time and seasons. 
+
+The conversations are timestamped, so I would love the surroundings the characters are in to gradually change with the time and seasons. 
 
 I love you.
