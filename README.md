@@ -25,3 +25,13 @@ Korg have released an SDK called [syro](https://github.com/korginc/volcasample) 
 I would implement all of the basic operations and allow entire directories to be loaded at once. This is the major drawback of the software I'm currently using. There might be other software out which already satisfy my desires, but I'm  trying to learn a bit of C++, so some C can't harm :D.
 
 The idea just popped to my head while speaking to a friend. This is one I am interested in doing for myself!
+
+### Game
+#### Landslide
+A pixel art game based on a recent (and at this moment ongoing) relationship. We met in the workplace in Amsterdam and fell very passionately in love, we got to know eachother over the company Slack and before she left we exported the conversation to keep the memory. 
+A game in which the player clicks through a series of chronological snippets of conversation and gradually the players come together on the screen with each passing day. Gradually after a time spent together the two characters slowly start to drift apart until finally they are off the screen and a few final bubbles of text appear.
+
+I would love for the dialogues to be from the genuine conversations, but I would only do so with the blessing of the girl this idea is inspired by and ultimately for. And fragmentary, yet somehow profound. Is that possible? 
+The conversations are timestamped and so I would love the surroundings the characters are in to gradually change with the time and seasons. 
+
+I love you.
