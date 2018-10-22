@@ -37,3 +37,7 @@ I would love for the dialogues to be from the genuine conversations, but I would
 The conversations are timestamped, so I would love the surroundings the characters are in to gradually change with the time and seasons. 
 
 I love you.
+
+### Humour
+### People who don't need to exist any more
+A webzine (+ maybe printed) about celebrities who have commented themselves into irrelevance. Like John Cleese [saying](https://www.telegraph.co.uk/news/2018/07/31/bbc-dont-televise-monty-python-today-shows-bad-modern-comedy/) the politically correct BBC has banned laughter. Accompanied by crude drawings of said celebrities. It's like a morally smug version of [Doug Stanhopes Death Pool](https://www.dougstanhopescelebritydeathpool.com/).
