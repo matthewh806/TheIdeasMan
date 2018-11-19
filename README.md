@@ -38,6 +38,16 @@ The conversations are timestamped, so I would love the surroundings the characte
 
 I love you.
 
+
+#### Memory
+The application memory is the game mechanic. Written in a language with control over memory management (C++?), expose the memory addresses to the user and allow them to manipulate that in some way (e.g. stuck in a room? Delete part of the memory responsbile for rendering the walls). 
+
+This is all very hypothetical and unformed at the moment, but I've never seen a game which exposes memory in this way to a user. So I think there's a lot that can be done here and I don't want to confine myself to a particular path yet without initial experimentation.
+
+BASICALLY - Do something weird with memory. We're very careful to manage and optimise memory in order to avoid buffer overflows and ensure everything runs smoothly and in the way we expect. But what if that was all part of the fun? I imagine you can do some pretty fucked-up interesting stuff with it.
+
+We'll see...
+
 ### Humour
 ### People who don't need to exist any more
 A webzine (+ maybe printed) about celebrities who have commented themselves into irrelevance. Like John Cleese [saying](https://www.telegraph.co.uk/news/2018/07/31/bbc-dont-televise-monty-python-today-shows-bad-modern-comedy/) the politically correct BBC has banned laughter. Accompanied by crude drawings of said celebrities. It's like a morally smug version of [Doug Stanhopes Death Pool](https://www.dougstanhopescelebritydeathpool.com/).
